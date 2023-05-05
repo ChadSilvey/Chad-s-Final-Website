@@ -1,0 +1,28 @@
+h1 {
+	font-family: 'PT Serif', serif;
+	text-align: center;
+}
+
+body {
+	background-color: tan;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+ul {
+	font-family: monospace;
+	list-style: none;
+}
+
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}

@@ -1,0 +1,42 @@
+h1 {
+	font-family: sans-serif;
+	background-color: darkgreen;
+  padding: 50px;
+background: linear-gradient(to top, lime, 20%, cyan)}
+
+body { 
+background-color:green; 
+font-family: serif;}
+
+nav {
+	font-family: monospace;
+	font-size: 18px;
+	background-color: darkgreen;
+	background: linear-gradient(to top, lime, 20%, cyan)}
+
+}
+
+a {
+	font-size: 18px;
+}
+
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+Footer{ 
+
+background-color: green;
+width: 100%
+margin: 0;
+padding: 1rem;
+box-sizing: border-box;
+text-align: center;
+font-style: oblique;
+font-size: 12;
+font-weight: lighter;}

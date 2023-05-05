@@ -1,0 +1,15 @@
+.location-list-page .text-holder{
+	width: 100%;
+}
+
+Footer{ 
+
+background-color: #cadetblue;
+width: 100%
+margin: 0;
+padding: 1rem;
+box-sizing: border-box;
+text-align: center;
+font-style: oblique;
+font-size: 12;
+font-weight: lighter;}
